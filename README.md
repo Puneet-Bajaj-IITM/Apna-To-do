@@ -19,7 +19,7 @@ This is a simple To-Do web application that I created using HTML, CSS, and JavaS
 
 1. Clone this repository to your local machine.
    ```
-   git clone https://github.com/yourusername/todo-web-app.git
+   git clone https://github.com/Puneet-Bajaj-IITM/Apna-To-do.git
    ```
 
 2. Open the `index.html` file in your web browser to run the application.
@@ -32,9 +32,6 @@ This is a simple To-Do web application that I created using HTML, CSS, and JavaS
 
 6. To delete a task, click the X can icon next to the task.
 
-## Demo
-
-You can check out a live demo of this To-Do Web App [here](https://yourusername.github.io/todo-web-app/).
 
 ## Contributing
 
