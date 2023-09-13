@@ -6,7 +6,6 @@ This is a simple To-Do web application that I created using HTML, CSS, and JavaS
 ## Features
 
 - Add tasks: You can add new tasks to your to-do list.
-- Mark tasks as done: You can mark tasks as completed by clicking on the checkbox.
 - Delete tasks: Remove tasks from your to-do list when they are no longer needed.
 
 ## Technologies Used
