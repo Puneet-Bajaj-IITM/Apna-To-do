@@ -10,7 +10,7 @@ task.addEventListener("keypress",(event)=>{
 
 btn.addEventListener("click",()=>{
     let li = document.createElement("li");
-    li.innerHTML = `${task.value} <button class="X">X</button> <input type="checkbox" name="Done" id="Done"> <label for="Done">Done</label> `;
+    li.innerHTML = `${task.value} <button class="X">X</button> `;
     ul.append(li);
     task.value ="";
 });
