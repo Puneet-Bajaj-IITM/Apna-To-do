@@ -27,9 +27,7 @@ This is a simple To-Do web application that I created using HTML, CSS, and JavaS
 
 4. You can mark tasks as done by clicking the checkbox next to the task.
 
-5. To edit a task, simply click on the task name, make your changes, and press Enter to save.
-
-6. To delete a task, click the X can icon next to the task.
+5. To delete a task, click the X can icon next to the task.
 
 
 ## Contributing
